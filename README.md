@@ -6,7 +6,7 @@
 4. Create symbols randomly
 5. Spin slot machine
 6. Check if user got 3 same symbols in a line
-7. Add winins to the user balance
+7. Add winnings to the user balance
 
 **What i learn by following along Tech with Tim video**
 - Fairly advance logic 
